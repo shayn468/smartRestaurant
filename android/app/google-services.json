@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478536979528",
+    "project_id": "smartrestraunt-38bbd",
+    "storage_bucket": "smartrestraunt-38bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478536979528:android:33fde5d59601c8c0b6b47d",
+        "android_client_info": {
+          "package_name": "com.smartrestraunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478536979528-hniii5cu7msaiaj1m88do22264fq1rhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMC_edtTwdmaiPmThB2SA2YpzXieGfUu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478536979528-hniii5cu7msaiaj1m88do22264fq1rhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
